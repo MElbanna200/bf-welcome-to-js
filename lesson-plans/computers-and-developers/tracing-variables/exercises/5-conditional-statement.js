@@ -1,5 +1,6 @@
 'use strict';
 
+// declare a variable a and initialize it to the value 'Ewin'
 let a = 'Ewin';
 // let a = 'Tugba';
 // let a = 'Jo';
@@ -15,4 +16,6 @@ if (a.length > 4) {
   b = b + 'short.';
 }
 
+
+//read the variable b
 console.log(b);
